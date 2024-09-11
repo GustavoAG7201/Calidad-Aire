@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "calidad-del-aire-415fb"
-  }
+    "default": "calidad-del-aire-415fb",
+    "calidad_aire": "calidad-del-aire-415fb"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
 }
